@@ -1,0 +1,29 @@
+{
+  "name": "microsoft_oauth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/msal-node": "^1.2.0",
+    "base-64": "^1.0.0",
+    "base64-min": "^2.0.0",
+    "dextractor": "^2.0.2",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "file-type": "^16.5.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-downloader-helper": "^1.0.18",
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.1",
+    "read-chunk": "^3.2.0",
+    "unirest": "^0.6.0",
+    "utf8": "^3.0.0"
+  }
+}
